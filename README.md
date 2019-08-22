@@ -4,4 +4,6 @@ The Code gives you an example of my Kaggle Competition Submission which got me u
 It is a short example of various Machine Learning Regression Techniques combined to an Averaged Model.
 <p>I was testing many combinations of ensemble models containing the <strong>LassoCV, RidgeCV, ElasticNetCV, KernelRidge, GradientBoostingRegression</strong> and some more not shown in the code, finding out that for me the ensemble of LassoCV and GradientBosstingRegression worked out the best.</p>
 
-You can get access to the Competition and the Data by following this <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview" strong>Link</strong>
+You can get access to the Competition and the Data by following this <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview" strong>Link</a></strong>
+
+Primarly I used the Machine Learning library of SciKit Learn, for more informations about the used and a lot more models see <a href="https://scikit-learn.org/stable/user_guide.html" strong>here</a></strong>.
